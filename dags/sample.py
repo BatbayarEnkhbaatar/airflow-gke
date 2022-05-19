@@ -2,7 +2,7 @@
 
 from airflow import DAG
 from datetime import datetime
-from plugins.custom_operators import ExampleDataToGCSOperator
+from plugins import ExampleDataToGCSOperator
 
 with DAG(
     'create_and_write_example_data_to_gcs',
