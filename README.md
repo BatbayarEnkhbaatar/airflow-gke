@@ -1,4 +1,4 @@
-# Deploying Airflow on Google Kubernetes Engine
+# Deploying Airflow on Google Kubernetes Engine (North Star Consulting LLC)
 
 Install Apache Airflow framework (Celery Executer, Cloud Sql database, Redis) to GKE using Helm and Terraform. For details and examples  visit [my blog](https://act-labs.github.io/posts/airflow-gke/ "Installing Airflow on GKE")
 
